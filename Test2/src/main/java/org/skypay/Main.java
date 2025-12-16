@@ -1,4 +1,7 @@
+package org.skypay;
 
+import org.skypay.service.Service;
+import org.skypay.entity.enums.RoomType;
 import java.util.Calendar;
 import java.util.Date;
 
